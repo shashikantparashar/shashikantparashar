@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shashikantparashar
-- 👀 I’m interested in Data Analysis using Python/R
-- 🌱 I’m currently learning Cloud and already know the basics of cloud, for AWS I am certified cloud practitioner a foundation level.
-- 💞️ I’m looking forward  to learn and apply the application modernization techniques using different cloud services.
+- 👀 I’m continuos learner.
 - 📫 How to reach me: shashikant.parashar@gmail.com
 -
 
