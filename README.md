@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shashikantparashar
+- 👋 Hi, I’m @shashikkantparashar
 - 👀 I’m continuos learner.
 - 📫 How to reach me: shashikant.parashar@gmail.com
 -
